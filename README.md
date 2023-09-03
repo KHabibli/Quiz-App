@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Note:** This repository is no longer actively maintained. It serves as a historical reference and may contain outdated code and dependencies. The last commit has been made 3 years ago. Please consider this before using or forking the project.
 
 ## Available Scripts
 
